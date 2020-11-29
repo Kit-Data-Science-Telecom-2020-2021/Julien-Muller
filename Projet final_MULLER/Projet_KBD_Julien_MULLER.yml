@@ -1,0 +1,5 @@
+name: spam
+channels:
+  - conda-forge
+  - defaults
+prefix: C:\Users\julie\Anaconda3\envs\spam\envs\spam
